@@ -1,0 +1,19 @@
+CORRECTNESS TEST 
+
+To run the correctness test with the provided file "MSS_Problems.txt", please use 
+the following command in your terminal without quotes:
+
+"python main.py"
+
+If another file is to be tested, ensure that the arrays have spaces between integers 
+and commas that precede them.
+
+The original MSS_Problems.txt had two integers without a space and our test will not
+work unless the space is added.
+
+-----------------------------
+SPEED TESTS 
+
+To run the speed test, please use the following command in your terminal without quotes:
+
+"python timer.py"
